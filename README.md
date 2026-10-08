@@ -36,13 +36,17 @@ The performance difference is night and day. While the official client idles at 
 
 <img width="1470" height="956" alt="The Mentalist" src="https://github.com/user-attachments/assets/3fdbcb15-cfd8-4ce8-a7d7-441b0ac3ed9c" />
 
-*Side-by-side comparison in Activity Monitor. Left: Official Prime Video app. Right: OptiPrime.*
+*Side-by-side comparison. Bottom Left: Official Prime Video app. Top Left: OptiPrime. Right: Activity Monitor*
 
 This demonstrates how a native, system-aware architecture can provide a vastly superior user experience on macOS.
+
+https://github.com/user-attachments/assets/5d4283c9-5dd6-417f-bb3b-642582f12b9b
 
 ---
 
 ### Credits
 
-*   **Code:** Written in Swift & SwiftUI.
-*   **App Icon:** Generated using ChatGPT (DALL-E 3).
+* **Systems Analysis & Software Engineering:** Siddhi Jain (DSAI, Nanyang Technological University)
+* **AI Pairing Partner:** Gemini Enterprise (for real-time system architecture design, profiling analysis, and Swift/WebKit optimization)
+* **App Icon Artwork:** Generated via ChatGPT (DALL-E 3)
+
