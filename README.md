@@ -11,7 +11,7 @@ The official Prime Video macOS application, while functional, is built on a cros
 A diagnostic session using Xcode Instruments revealed the primary bottleneck: a rampant serialization loop involving `NSKeyedArchiver`, likely caused by an inefficient state management system.
 
 <img width="1470" height="956" alt="Screenshot 2026-10-08 at 14 52 16" src="https://github.com/user-attachments/assets/f0a718dd-4a7e-4500-9dc6-8eb8613dcb7d" />
-*(Xcode Instruments trace showing the NSKeyedArchiver bottleneck in the official app's main thread.)*
+*Xcode Instruments trace showing the NSKeyedArchiver bottleneck in the official app's main thread.*
 
 ---
 
@@ -35,7 +35,7 @@ The performance difference is night and day. While the official client idles at 
 
 <img width="1470" height="956" alt="The Mentalist" src="https://github.com/user-attachments/assets/3fdbcb15-cfd8-4ce8-a7d7-441b0ac3ed9c" />
 
-*(Caption: Side-by-side comparison in Activity Monitor. Left: Official Prime Video app. Right: OptiPrime.)*
+*Side-by-side comparison in Activity Monitor. Left: Official Prime Video app. Right: OptiPrime.*
 
 This demonstrates how a native, system-aware architecture can provide a vastly superior user experience on macOS.
 
