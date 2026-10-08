@@ -41,6 +41,7 @@ The performance difference is night and day. While the official client idles at 
 This demonstrates how a native, system-aware architecture can provide a vastly superior user experience on macOS.
 
 https://github.com/user-attachments/assets/5d4283c9-5dd6-417f-bb3b-642582f12b9b
+
 As seen in the above demo, upon window minimisation, OmniPrime eventually frees up CPU usage, PrimeVideo on the other hand continues using CPU threads.
 
 ---
