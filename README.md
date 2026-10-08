@@ -52,4 +52,4 @@ As seen in the above demo, upon window minimisation, OmniPrime eventually frees 
 * **AI Pairing Partner:** Gemini Enterprise (for real-time system architecture design, profiling analysis, and Swift/WebKit optimization)
 * **App Icon Artwork:** Generated via ChatGPT (DALL-E 3)
 
-<img width="87" height="93" alt="optiprime_logo" src="https://github.com/user-attachments/assets/6536d937-1255-4d1b-89f7-bdf6d08c8841" />
+<img width="261" height="279" alt="optiprime_logo" src="https://github.com/user-attachments/assets/6536d937-1255-4d1b-89f7-bdf6d08c8841" />
