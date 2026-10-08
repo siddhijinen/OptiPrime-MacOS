@@ -48,7 +48,7 @@ As seen in the above demo, upon window minimisation, OmniPrime eventually frees 
 
 ### Credits
 
-* **Systems Analysis & Software Engineering:** Siddhi Jain (DSAI, Nanyang Technological University)
+* **Systems Analysis & Software Engineering:** Siddhi Jain (Nanyang Technological University, Singapore)
 * **AI Pairing Partner:** Gemini Enterprise (for real-time system architecture design, profiling analysis, and Swift/WebKit optimization)
 * **App Icon Artwork:** Generated via ChatGPT (DALL-E 3)
 
