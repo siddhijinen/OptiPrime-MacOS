@@ -8,7 +8,7 @@ A native, hardware-accelerated macOS wrapper for Amazon Prime Video, built to be
 
 The official Prime Video macOS application, while functional, is built on a cross-platform foundation that leads to significant and unnecessary CPU usage, even when idle. On my Apple Silicon MacBook, I regularly observed the client consuming over **100-170% CPU**, causing high temperatures and rapid battery drain.
 
-A diagnostic session using Xcode Instruments revealed the primary bottleneck: a rampant serialization loop involving `NSKeyedArchiver`, likely caused by an inefficient state management system.
+A diagnostic session using Xcode Instruments revealed the primary bottleneck: a rampant serialisation loop involving `NSKeyedArchiver`, likely caused by an inefficient state management system.
 
 <img width="1470" height="956" alt="Screenshot 2026-10-08 at 14 52 16" src="https://github.com/user-attachments/assets/f0a718dd-4a7e-4500-9dc6-8eb8613dcb7d" />
 *Xcode Instruments trace showing the NSKeyedArchiver bottleneck in the official app's main thread.*
