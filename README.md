@@ -2,6 +2,8 @@
 
 A native, hardware-accelerated macOS wrapper for Amazon Prime Video, built to be dramatically more energy-efficient than the official client.
 
+<img width="261" height="279" alt="optiprime_logo" src="https://github.com/user-attachments/assets/6536d937-1255-4d1b-89f7-bdf6d08c8841" />
+
 ---
 
 ## The Problem
@@ -51,5 +53,3 @@ As seen in the above demo, upon window minimisation, OmniPrime eventually frees 
 * **Systems Analysis & Software Engineering:** Siddhi Jain (Nanyang Technological University, Singapore)
 * **AI Pairing Partner:** Gemini Enterprise (for real-time system architecture design, profiling analysis, and Swift/WebKit optimization)
 * **App Icon Artwork:** Generated via ChatGPT (DALL-E 3)
-
-<img width="261" height="279" alt="optiprime_logo" src="https://github.com/user-attachments/assets/6536d937-1255-4d1b-89f7-bdf6d08c8841" />
